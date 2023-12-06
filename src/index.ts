@@ -1,2 +1,2 @@
-const course: string = "next level-2 bal diya a headech development";
+const course: string = "how to change code eye sikhlo beta";
 console.log(course);
